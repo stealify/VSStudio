@@ -1,6 +1,11 @@
 # VSStudio
 VSStudio - Visual Stealify Studio IDE
 
+
+- [ ] Stealify Installer working (fdo concepts)
+  - [ ] VSStudio Installer based on the Advisory Concept.
+
+
 - [ ] Working minimal build vscode/vscodium electron
   - [ ] Working minimal build vscode/vscodium web + extension-host
 - [ ] Migrae Porting VSCodium / Theia / Code Server to @stealify/editor
